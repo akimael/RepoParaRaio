@@ -1,0 +1,14 @@
+# ESCALA
+
+Etapa 0: Inicio
+Etapa 1: Verificar a escala de serviço.
+Etapa 2: Identificar o número de militares.
+Etapa 3: Separar os militares por grupamento.
+Etapa 4: Realizar a execução da escala.
+Etapa 5: Primeiro grupamento composto por 3 militares escalado para segunda
+Etapa 6: Três Grupamentos de Sobreaviso
+Etapa 7: Segundo grupamento escalado para terça-feira e o primeiro grupamento indisponivel
+Etapa 8: Terceiro grupamento escalado para quarta-feira, 2 grupamentos disponiveis e 1 grupamento indisponivel 
+Etapa 9: Quarto grupamento escalado para quinta-feira, 2 grupamentos disponiveis e 1 grupamento indisponivel
+Etapa 10: Repete a escala, com o primeiro grupamento já tendo "descansado" por 3 dias
+Etapa 11: Fim

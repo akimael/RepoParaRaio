@@ -1,0 +1,7 @@
+Etapa 0: Início
+Etapa 1: Verificar a laranja
+Etapa 2: Escolher como descascar
+Etapa 3: Verificar sementes
+Etapa 4: Decidir se vai cortar
+Etapa 5: Comer
+Etapa 6: Fim

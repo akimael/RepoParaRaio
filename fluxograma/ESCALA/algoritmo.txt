@@ -7,8 +7,12 @@ Etapa 3: Separar os militares por grupamento.
 Etapa 4: Realizar a execução da escala.
 Etapa 5: Primeiro grupamento composto por 3 militares escalado para segunda
 Etapa 6: Três Grupamentos de Sobreaviso
-Etapa 7: Segundo grupamento escalado para terça-feira e o primeiro grupamento indisponivel
-Etapa 8: Terceiro grupamento escalado para quarta-feira, 2 grupamentos disponiveis e 1 grupamento indisponivel 
-Etapa 9: Quarto grupamento escalado para quinta-feira, 2 grupamentos disponiveis e 1 grupamento indisponivel
-Etapa 10: Repete a escala, com o primeiro grupamento já tendo "descansado" por 3 dias
-Etapa 11: Fim
+Etapa 7: Fim do serviço
+Etapa 8: Primeiro grupamento indisponível respeitando a sua folga e dado como indisponível para as próximas 24 horas.
+Etapa 9: Segundo grupamento escalado para terça-feira e o primeiro grupamento indisponivel.
+Etapa 10: Fim do serviço
+Etapa 11: Segundo grupamento indisponível respeitando as regras de folga e serviço.
+Etapa 12: Terceiro grupamento escalado para quarta-feira, 2 grupamentos disponiveis e 1 grupamento indisponivel 
+Etapa 13: Quarto grupamento escalado para quinta-feira, 2 grupamentos disponiveis e 1 grupamento indisponivel
+Etapa 14: Repete a escala, com o primeiro grupamento já tendo "descansado" por 3 dias
+Etapa 15: Fim
